@@ -1,0 +1,6 @@
+{
+	// "presets": ["env"]
+    // Wasn't working so changed to this
+    // https://stackoverflow.com/questions/52092739/upgrade-to-babel-7-cannot-read-property-bindings-of-null
+    "presets": ["@babel/preset-env"]
+}
